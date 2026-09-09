@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerber/")
+			(outputdirectory "../Gerber/")
 		)
 	)
 	(footprint "LED_THT:LED_D5.0mm"
