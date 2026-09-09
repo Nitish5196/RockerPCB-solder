@@ -4198,7 +4198,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 133.35 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4316,7 +4316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 182.88 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4374,7 +4374,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 177.8 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 177.8 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4588,7 +4599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 158.75 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4646,7 +4657,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 153.67 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 153.67 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4860,7 +4882,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 171.45 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
 			(at 171.45 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5073,7 +5106,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 144.78 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5131,7 +5164,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 139.7 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 139.7 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -5489,7 +5533,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 127 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
 			(at 127 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5538,7 +5593,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 168.91 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5596,7 +5651,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 163.83 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 163.83 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6016,7 +6082,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 161.29 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
 			(at 161.29 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6299,7 +6376,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "3"
 			(at 81.28 94.6784 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6458,7 +6535,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 149.86 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
 			(at 149.86 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6585,7 +6673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 196.85 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6643,7 +6731,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 191.77 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 191.77 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6739,7 +6838,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 138.43 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
 			(at 138.43 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6870,7 +6980,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 130.81 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6928,7 +7038,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 125.73 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 125.73 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6980,7 +7101,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "3"
 			(at 60.96 94.6784 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7303,7 +7424,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "Sim.Pins" "1=A 2=K"
+			(at 182.88 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
 			(at 182.88 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7352,7 +7484,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "10u"
 			(at 73.66 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7410,7 +7542,18 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=E 2=B 3=C"
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 68.58 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "GUMMELPOON"
 			(at 68.58 74.93 0)
 			(hide yes)
 			(show_name no)
