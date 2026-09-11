@@ -20,3 +20,5 @@ BOM(Bill Of Materials):<ul>
 <br>
 <b>Slack Username:</b><u>Nitish Kumar</u> <br>
 display name:<u>Mr_KN5196</u>
+<b>slack  id:</b>U0BQHGZ64CA
+
